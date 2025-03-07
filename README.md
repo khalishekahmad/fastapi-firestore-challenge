@@ -135,6 +135,7 @@ Endpoint yang tersedia hanya yang ada di daftar API di Swagger UI atau Redoc UI.
 
 ```json
 {
+  "id": "user1",
   "name": "John Doe",
   "email": "john@example.com",
   "age": 30
