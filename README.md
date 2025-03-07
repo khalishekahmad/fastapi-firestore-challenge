@@ -175,9 +175,8 @@ db = firestore.client()
 ## 🎥 Demo & Dokumentasi Tambahan
 
 ### 📹 Video Demo 
-```markdown
 https://youtu.be/emtQ4LrAK9c
-```
+
 
 ### 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/b69c91c4-3eb5-4fdc-a482-e403369a6bf4)
