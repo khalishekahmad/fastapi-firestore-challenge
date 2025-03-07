@@ -73,6 +73,14 @@ pip install fastapi uvicorn firebase-admin
 
 > **Catatan:** Pydantic udah include di FastAPI, jadi nggak perlu install lagi.
 
+Buat file **requirements.txt** dengan isi berikut:
+
+```
+fastapi
+uvicorn
+firebase-admin
+```
+
 ---
 
 ## 🔥 Setup Firebase Firestore
@@ -117,8 +125,8 @@ uvicorn main:app --reload
 - **Redoc UI:**
   [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 - Kalau buka http://127.0.0.1:8000/, akan muncul "Not Found".
-Itu terjadi karena di kode ini kita tidak mendefinisikan route untuk halaman utama ("/").
-Endpoint yang tersedia hanya yang ada di daftar API di Swagger UI atau Redoc UI.
+  Itu terjadi karena di kode ini kita tidak mendefinisikan route untuk halaman utama ("/").
+  Endpoint yang tersedia hanya yang ada di daftar API di Swagger UI atau Redoc UI.
 ---
 
 ## 🛠️ Struktur Endpoint
@@ -196,6 +204,4 @@ Bisa juga tambahin gambar atau demo GIF:
 ---
 
 Selamat mencoba! Semoga bermanfaat & happy coding! 🚀😊
-
-
 
