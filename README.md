@@ -12,13 +12,13 @@ Proyek ini adalah **CRUD API** sederhana yang dibuat pakai **FastAPI** dan **Fir
 
 ## 📚 Apa Aja yang Ada di Sini?
 
-- [Fitur Utama](#🚀-fitur-utama)
-- [Setup Awal & Instalasi](#✅-setup-awal--instalasi)
-- [Cara Menjalankan Server](#🚀-cara-menjalankan-server)
-- [Struktur Endpoint](#🛠️-struktur-endpoint)
-- [Cara Kerja API](#⚙️-cara-kerja-api)
-- [Demo & Dokumentasi Tambahan](#🎥-demo--dokumentasi-tambahan)
-- [Catatan Penting](#⚠️-catatan-penting)
+- [Fitur Utama](#fitur-utama)
+- [Setup Awal & Instalasi](#setup-awal--instalasi)
+- [Cara Menjalankan Server](#cara-menjalankan-server)
+- [Struktur Endpoint](#struktur-endpoint)
+- [Cara Kerja API](#cara-kerja-api)
+- [Demo & Dokumentasi Tambahan](#demo--dokumentasi-tambahan)
+- [Catatan Penting](#catatan-penting)
 
 ---
 
