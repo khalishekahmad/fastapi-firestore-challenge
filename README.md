@@ -174,25 +174,21 @@ db = firestore.client()
 
 ## 🎥 Demo & Dokumentasi Tambahan
 
-### 📹 Video Demo (Opsional)
-
-Kalau punya video demo di YouTube, bisa ditambahkan:
-
+### 📹 Video Demo 
 ```markdown
-[Demo Video di YouTube](https://www.youtube.com/watch?v=contohLink)
+https://youtu.be/emtQ4LrAK9c
 ```
 
-### 📸 GIF atau Screenshot (Opsional)
+### 📸 Screenshots
+![image](https://github.com/user-attachments/assets/b69c91c4-3eb5-4fdc-a482-e403369a6bf4)
+![image](https://github.com/user-attachments/assets/e0cb05de-493f-4ca1-81b6-764b4aec2fba)
+![image](https://github.com/user-attachments/assets/9d916fbb-1d69-4728-95d2-717ef08606d9)
+![image](https://github.com/user-attachments/assets/0d90b234-0d28-4d7d-af00-d635aa0f0f11)
+![image](https://github.com/user-attachments/assets/326a2830-8270-4d34-afea-063f812a7523)
+![image](https://github.com/user-attachments/assets/6b8e5f65-3c68-480b-8839-e45090686b67)
 
-Bisa juga tambahin gambar atau demo GIF:
 
-```markdown
-![Demo GIF](demo.gif)
-```
 
-> Pastikan file `demo.gif` ada di dalam repository.
-
----
 
 ## ⚠️ Catatan Penting
 
