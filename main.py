@@ -1,8 +1,10 @@
-import firebase_admin
-from firebase_admin import credentials, firestore
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel, Field
-from typing import Optional
+# Import library yang dibutuhkan
+import firebase_admin  # Library untuk menghubungkan aplikasi dengan Firebase
+from firebase_admin import credentials, firestore  # Untuk autentikasi dan mengakses Firestore
+from fastapi import FastAPI, HTTPException  # Framework FastAPI untuk membuat API
+from pydantic import BaseModel, Field  # Pydantic digunakan untuk validasi data input
+from typing import Optional  # Digunakan untuk field opsional dalam model data
+
 
 # Inisialisasi Firebase Admin pake file service account
 cred = credentials.Certificate("serviceAccountKey.json")  # Pastikan path sesuai
